@@ -22,7 +22,7 @@ This text editor application allows users to create, open, and save text files. 
 
 1. Run the script using Python:
     ```bash
-    python text_editor.py
+    python Notepad.py
     ```
 
 2. The application window will appear, providing a simple text editor interface.
